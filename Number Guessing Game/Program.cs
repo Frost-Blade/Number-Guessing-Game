@@ -2,7 +2,7 @@
 
 namespace NumberGuessingGame 
 {
-    class NumberGuessingGame
+    class Program
     {
         public static void Main(string[] args)
         {
